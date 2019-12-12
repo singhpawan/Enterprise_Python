@@ -127,10 +127,30 @@ Designing architectures:
  - Gathering requirements
  - Researching environments
  - Choosing Dependencies
- 
-Discovery more tahn invention
- 
+Discovery more than invention
 Careful, deliberate communication
+
+Software architecture is more about discovery than invention, it's about
+what your constraints are, what you are trying to build and choosing the 
+right tools to achieve that task.
+
+We need careful deliberate communication on top of that to achive that.
+
+
+EspyMetrics:
+- Pure-python analytics application
+- Open-source
+design.rst
+
+were there more mac users/pc users. 
+
+Note:
+- Describe your constraints.
+- Prune the decision tree.
+- Discover your architecture.
+
+
+
 
 	
 	
